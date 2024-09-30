@@ -1,5 +1,5 @@
-<h1 align="center"> Chat GPT Writer - Chrome Extension</h1>
-Hello, I am Hardik and I have made this Plasmo Extension for producing AI generated LinkedIn messages replies
+<h1 align="center">Chat GPT Writer - Chrome Extension</h1>
+<h4 align="center">Hello, I am Hardik and I have made this Plasmo Extension for producing AI generated LinkedIn messages replies</h4>
 
 
 
@@ -7,10 +7,7 @@ Hello, I am Hardik and I have made this Plasmo Extension for producing AI genera
 
 <h3 align="center">Demonstration</h3>
 
-<div style="text-align: center;">
-<video align="center" controls>
-  <source src="assets/demo.mp4" type="video/mp4">
-</video>
+https://github.com/user-attachments/assets/5e4939cd-9cdf-430e-9e5e-928113c28282
 
 <h3 align="center">Getting started</h3>
 
